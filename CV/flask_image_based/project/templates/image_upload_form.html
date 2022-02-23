@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+
+<form method="post" enctype="multipart/form-data" action="{{url_for('routes.image_process')}}">
+    <input type="file" class="button" id="file" name="file">
+    <input type="submit" class="button">
+</form>
+
+
+{% endblock %}

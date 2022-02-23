@@ -1,0 +1,37 @@
+,index,Filepath,Label
+0,0,train/chilli pepper/Image_14.jpg,chilli pepper
+1,1,train/mango/Image_28.jpg,mango
+2,2,train/ginger/Image_61.jpg,ginger
+3,3,train/carrot/Image_72.jpg,carrot
+4,4,train/eggplant/Image_65.jpg,eggplant
+5,5,train/soy beans/Image_45.jpg,soy beans
+6,7,train/capsicum/Image_82.jpg,capsicum
+7,8,train/raddish/Image_12.jpg,raddish
+8,11,train/jalepeno/Image_58.jpg,jalepeno
+9,13,train/spinach/Image_100.jpg,spinach
+10,14,train/lemon/Image_11.jpg,lemon
+11,15,train/paprika/Image_64.jpg,paprika
+12,18,train/pineapple/Image_9.jpg,pineapple
+13,19,train/pear/Image_21.jpg,pear
+14,20,train/beetroot/Image_87.jpg,beetroot
+15,23,train/kiwi/Image_10.jpg,kiwi
+16,24,train/onion/Image_2.jpg,onion
+17,25,train/grapes/Image_8.jpg,grapes
+18,26,train/peas/Image_32.jpg,peas
+19,31,train/banana/Image_97.jpg,banana
+20,32,train/corn/Image_58.jpg,corn
+21,38,train/potato/Image_23.jpg,potato
+22,40,train/tomato/Image_2.jpg,tomato
+23,44,train/cucumber/Image_26.jpg,cucumber
+24,48,train/orange/Image_33.jpg,orange
+25,49,train/turnip/Image_60.jpg,turnip
+26,52,train/sweetcorn/Image_1.jpg,sweetcorn
+27,58,train/lettuce/Image_60.jpg,lettuce
+28,61,train/sweetpotato/Image_95.jpg,sweetpotato
+29,63,train/apple/Image_52.jpg,apple
+30,69,train/watermelon/Image_52.jpg,watermelon
+31,80,train/garlic/Image_40.jpg,garlic
+32,109,train/cauliflower/Image_82.jpg,cauliflower
+33,139,train/pomegranate/Image_36.jpg,pomegranate
+34,159,train/cabbage/Image_7.jpg,cabbage
+35,185,train/bell pepper/Image_30.jpg,bell pepper
